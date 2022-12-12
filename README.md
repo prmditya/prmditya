@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Thoriq Kusuma</h1>
+<h1 align="center">Hello there  I'm Thoriq Kusuma</h1>
 <h3 align="center">I'm student of Computer Engineering 💻 '22</h3>
 
 - 🌱 I’m currently learning **Tailwind CSS**
