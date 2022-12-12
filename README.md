@@ -1,6 +1,8 @@
 <h1 align="center">Hi I'm Thoriq Kusuma</h1>
 <h3 align="center">I'm student of Computer Engineering 💻 '22</h3>
 
+- 🌱 I’m currently learning **Tailwind CSS**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
