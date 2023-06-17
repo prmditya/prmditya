@@ -32,5 +32,5 @@ Hey there! I'm Thoriq Kusuma Paramaditya, a Computer Engineering student'22. I'm
 #
 
 ### 📊 Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prmditya&show_icons=true&theme=dark&bg_color=0d1117&locale=en" alt="reqparamaditya" /></p>
+![Thoriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmditya&show_icons=true&theme=omni)
 
