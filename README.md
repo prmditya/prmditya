@@ -14,11 +14,6 @@ Hey there! I'm Thoriq Kusuma Paramaditya, a Computer Engineering student'22. I'm
 
 #
 
-### 🎧 Now Playing
-[<img src="https://spotify-now-playing-pi-gules.vercel.app/api/spotify" width="400"/>](https://open.spotify.com/user/21jii4ic336qjj2gc6b63lvna?si=b690912c81574c1d)
-
-#
-
 ### 🛠️ Language & Tools
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VIM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
