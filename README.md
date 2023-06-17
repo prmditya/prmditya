@@ -12,6 +12,8 @@ Hey there! I'm Thoriq Kusuma Paramaditya, a Computer Engineering student'22. I'm
       </a>
    </p>
 
+#
+
 ### 🛠️ Language & Tools
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="VIM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />
