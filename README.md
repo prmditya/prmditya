@@ -1,5 +1,5 @@
 # 🍇 Thoriq Kusuma
-**`Computer Engineering Student'22 | Programming Enthusiast`**
+**`Programming Enthusiast | Computer Engineering Student'22`**
 
 Hey there! I'm Thoriq Kusuma Paramaditya, a Computer Engineering student'22. I'm passionate about coding and technology, constantly exploring new opportunities to sharpen my skills. Beside of coding I also like photograph, designing, gaming, and more.
 
