@@ -15,7 +15,7 @@ Hey there! I'm Thoriq Kusuma Paramaditya, a Computer Engineering student'22. I'm
 #
 
 ### 🛠️ Language & Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,c,cpp,arduino,python,html,css,js,ts,php,nodejs,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,c,cpp,arduino,python,html,css,js,ts,php,nodejs,react,tailwind,figma)](https://skillicons.dev)
 <br />
 
 #
