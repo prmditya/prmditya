@@ -9,10 +9,10 @@ Hello everyone! My name is Thoriq Kusuma, and I'm an undergraduate computer engi
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prmditya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+#
 
 ### 🧰 Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js,ts,php,mysql,python,nodejs,vim,vscode,arch,figma&theme=dark)](https://skillicons.dev)
 #
-
-[![Thoriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmditya)](https://github.com/prmditya)
+### 📊 Stats
+[![Thoriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmditya&theme=dark&rank_icon=github)](https://github.com/prmditya)
