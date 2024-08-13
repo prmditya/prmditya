@@ -6,7 +6,7 @@ Hello everyone! My name is Thoriq Kusuma, and I'm an undergraduate computer engi
 
    <p align="left">
       <a href="https://github.com/prmditya?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prmditya?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/prmditya?color=f0da4c&style=for-the-badge&labelColor=f0da4c&logo=star&logoColor=black"/></a>
    </p>
 
 #
