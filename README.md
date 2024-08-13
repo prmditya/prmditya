@@ -14,3 +14,5 @@ Hello everyone! My name is Thoriq Kusuma, and I'm an undergraduate computer engi
 ### 🧰 Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js,ts,php,mysql,python,nodejs,vim,vscode,arch,figma&theme=dark)](https://skillicons.dev)
 #
+
+[![Thoriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmditya)](https://github.com/prmditya)
