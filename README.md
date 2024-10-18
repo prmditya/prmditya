@@ -2,7 +2,7 @@
 
 **`Programming Enthusiast`**
 
-Hello everyone! My name is Thoriq Kusuma, and I'm an undergraduate computer engineering student with a passion for building exceptional digital experiences. I'm constantly learning and experimenting with new technologies to stay at the forefront of web development. Let's connect and build something amazing together!
+Hello everyone! My name is Thoriq Kusuma, and I'm currently an undergraduate Computer Engineering student. I'm constantly learning and experimenting with new technologies. Let's connect and build something amazing together!
 
    <p align="left">
       <a href="https://github.com/prmditya?tab=repositories&sort=stargazers">
