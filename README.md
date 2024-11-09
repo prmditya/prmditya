@@ -1,4 +1,4 @@
-# 🍇 Thoriq Kusuma
+# 🌻 Thoriq Kusuma
 
 **`Programming Enthusiast`**
 
