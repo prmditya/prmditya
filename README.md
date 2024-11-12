@@ -15,4 +15,4 @@ Hello everyone! My name is Thoriq Kusuma, and I'm currently an undergraduate Com
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js,ts,php,mysql,python,nodejs,vim,vscode,arch,figma&theme=dark)](https://skillicons.dev)
 #
 ### 📊 Stats
-[![Thoriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmditya&theme=dark&rank_icon=github)](https://github.com/prmditya)
+[![Thoriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmditya&theme=gruvbox&rank_icon=github)](https://github.com/prmditya)
