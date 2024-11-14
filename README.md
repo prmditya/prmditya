@@ -18,15 +18,3 @@ Hello everyone! My name is Thoriq Kusuma, and I'm currently an undergraduate Com
 #
 ### 📊 Stats
 [![Thoriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmditya&theme=gruvbox&rank_icon=github)](https://github.com/prmditya)
-
-<div align="left">
-
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/prmditya/prmditya/output/snake.svg" alt="Snake animation" />
-
-###
