@@ -1,3 +1,5 @@
+<img src="banner.png"/>
+
 # 🌻 Thoriq Kusuma
 
 **`Programming Enthusiast`**
