@@ -16,7 +16,7 @@ Hello everyone! My name is Thoriq Kusuma, and I'm currently an undergraduate Com
 ### 🧰 Tools and Skills
 <p align="center">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,arduino,python,sklearn,tensorflow,ts,nodejs,react,nextjs,lua,neovim,vscode,windows,arch,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,rust,python,js,ts,php,arch&theme=dark" />
   </a>
 </p>
 
