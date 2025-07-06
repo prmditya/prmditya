@@ -1,4 +1,5 @@
-<img src="banner.png"/>
+
+![screenshot-20250706-113102](https://github.com/user-attachments/assets/b94f6a87-8841-41f2-8a0c-d5aafa249d4a)
 
 # 🌻 Thoriq Kusuma
 
