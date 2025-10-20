@@ -19,7 +19,7 @@ Hello everyone! My name is Thoriq Kusuma, and I'm currently an undergraduate Com
    </a>
    
    <!-- Homepage (Vercel) Badge -->
-   <a href="https://prmditya.netlify.app/" target="_blank" rel="noopener noreferrer">
+   <a href="https://prmditya.my.id/" target="_blank" rel="noopener noreferrer">
      <img src="https://img.shields.io/static/v1?message=Homepage&logo=vercel&label=&color=282828&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Portfolio Link" />
    </a>
    </p>
