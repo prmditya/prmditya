@@ -5,7 +5,7 @@
 
 **`Tech Nerdz`**
 
-Hello everyone! My name is Thoriq Kusuma, and I'm currently an undergraduate Computer Engineering student. I'm constantly learning and experimenting with new technologies. Let's connect and build something amazing together!
+Hi everyoen! I'm Thoriq
 
    <p align="left">
    <!-- Gmail Badge -->
@@ -35,4 +35,4 @@ Hello everyone! My name is Thoriq Kusuma, and I'm currently an undergraduate Com
 
 #
 ### 📊 Stats
-[![Thoriq's GitHub stats](https://github-readme-stats.vercel.app/api?username=prmditya&theme=gruvbox&rank_icon=github)](https://github.com/prmditya)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=prmditya&theme=gruvbox)
