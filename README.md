@@ -3,8 +3,6 @@
 
 # 🌻 Thoriq Kusuma
 
-**`Tech Nerdz`**
-
 Hi everyoen! I'm Thoriq
 
    <p align="left">
@@ -23,15 +21,6 @@ Hi everyoen! I'm Thoriq
      <img src="https://img.shields.io/static/v1?message=Homepage&logo=vercel&label=&color=282828&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Portfolio Link" />
    </a>
    </p>
-
-#
-
-### 🧰 Tools and Skills
-<p align="center">
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,rust,python,js,ts,php,arch&theme=dark" />
-  </a>
-</p>
 
 #
 ### 📊 Stats
